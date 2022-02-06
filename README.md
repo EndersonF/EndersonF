@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=EndersonF&style=flat-plastic&color=blueviolet)
 <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/EndersonF">Enderson</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
@@ -41,6 +42,7 @@ Oi, eu me chamo [Enderson Frazão](https://www.linkedin.com/in/enderson-fraz%C3%
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 <h2>Minhas estatísticas</h2>
 <p align="center" >
