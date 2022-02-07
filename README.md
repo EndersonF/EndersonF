@@ -25,8 +25,8 @@ Oi, eu me chamo [Enderson Frazão](https://www.linkedin.com/in/enderson-fraz%C3%
 <img align= "right" alt="GIF" src="https://media1.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47asen0tpup1ivtvw7cr415qgufh1269blh2poud6t&rid=giphy.gif&ct=g" width="500" height="600" />
  
 **<h2> Como me encontrar </h2>** 
-- 💼 Você é recrutador? Me mande um e-mail --> <a href="mailto:enderson.frazao7@gmail.com?subject=Oiii%20again" target="blank">
-   <img align="center" alt="endersonf" height="30" width="30" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
+- 💼 Você é recrutador? Estou disponível no <a href="mailto:enderson.frazao7@gmail.com?subject=Oiii%20again" target="blank">
+   <img align="center" alt="endersonf" height="25" width="25" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
   </a>
 
 **<h2> Minhas experiências </h2>**
