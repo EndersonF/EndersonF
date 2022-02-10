@@ -4,13 +4,19 @@
 </div>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/enderson_frazao"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.twitch.tv/enderfpss"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>&nbsp;&nbsp;
-<a href="https://steamcommunity.com/id/endersonfrazao"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>&nbsp;&nbsp;
-   <a href="https://api.whatsapp.com/send?phone=5569992201666" alt="WhatsApp-EndersonF">
-      <img height="30" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="blank">
+   </a>
+<a href="https://twitter.com/enderson_frazao"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" target="blank">
+   </a>
+<a href="https://www.twitch.tv/enderfpss"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" target="blank">
+   </a>
+<a href="https://steamcommunity.com/id/endersonfrazao"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" target="blank">
+   </a>
+<a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" target="blank">
+   </a>
+<a href="https://api.whatsapp.com/send?phone=5569992201666" alt="WhatsApp-EndersonF" target="blank">
+      <img height="30" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
+   </a>
  </p>
  
  <div align="center">
