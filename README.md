@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=EndersonF&style=flat-plastic&color=blueviolet)
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/EndersonF">Enderson</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://github.com/EndersonF">Enderson</a></h1>
 </div>
 
 <p align='center'>
@@ -22,7 +22,7 @@
  </p>
  
  <div align="center">
-<h3> Enderson Frazão | 💻 Estudante - HTML, CSS, JAVASCRIPT, NODE.JS, BLOCKCHAIN | 🛸 Brazil </h3>
+<h3> 💻 Frontend Developer | React | Next | TypeScript | JavaScript | 🛸 Brazil </h3>
 </div>
  <h5 align="center">
    <i>✞ Just making my castle with small pebbles</i>
@@ -30,7 +30,18 @@
 
 <br />
 
-Oi, eu me chamo [Enderson Frazão](https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/), um estudante de programação apaixonado por quase tudo que envolve web e sou formando de Análise e Desenvolvimento de Sistemas - IFRO. Meu interesse pela área da programação veio dos jogos e sites, eu queria saber como funcionava toda aquelas mecânicas dos jogos e toda as animações de sites, é muito louco e divertido. Estou muito empenhado e sinto que vou me tornar um bom desenvolvedor/profissional.
+Acesse meu [portfólio](https://enderson-portfolio.vercel.app/)!
+
+Sou um apaixonado por códigos, inovações tecnológicas e muito café.
+
+Formado em Análise e Desenvolvimento de Sistemas, sou focado em desenvolvimento Frontend, com experiência em:
+
+Frameworks: React, Next, NodeJs
+Linguagens: JavaScript, TypeScript
+Banco de dados: MySQL
+Outros: HTML, CSS, Git, GitHub, Blockchain.
+
+Estou sempre empenhado e buscando novos conhecimentos e evolução constante ;)
 
 <img align= "right" alt="GIF" src="https://media1.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47asen0tpup1ivtvw7cr415qgufh1269blh2poud6t&rid=giphy.gif&ct=g" width="500" height="680" />
  
@@ -40,19 +51,33 @@ Oi, eu me chamo [Enderson Frazão](https://www.linkedin.com/in/enderson-fraz%C3%
   </a>
 
 **<h2> Minhas experiências </h2>**
-- Atualmente sou bolsista em desenvolvimento de blockchain. O que eu faço de interessante? Estudo quase todos os dias pela plataforma [Alura](https://www.alura.com.br/) as tecnologias Blockchain, JavaScript, NodeJS - API, HTML, CSS, Git e AWS. Por enquanto foi essas tecnologias listadas que foram passada para o estudo. De segunda a sexta temos daily para repassar aos cordenadores sobre o que foi aprendido no dia e se houve algum problema. Tá sendo bem empolgante esse contato com o âmbito profissional, sinto que vai agregar bastante para o decorrer da minha carreira.
+- Trabalhei com desenvolvimento Blockchain, onde eu repassava aos superiores o andamentos da atividades, quais eram meus planos para
+as atividades e se houve alguma problema e logo alinhava as atividades com as equipes. Durante o estágio foi utilizado as metodologias
+ágeis Scrum e Kanban. Estudei pela plataforma Alura para desenvolver as atividades que eram passadas. No decorrer do estágio trabalhei
+com algumas linguagens de programação e algumas ferramentas, como por exemplo: JavaScript, NodeJS, Blockchain, SQL e NoSQL. Essas
+ferramentas foram usadas para o desenvolvimento de APIs na Blockchain e também foi utilizado Git/Github para o versionamento dos projetos
+que eram passados como desafios.
 - Fui estagiário no hospital Unimed Porto Velho, Rondônia, Brasil. O que eu fazia de interessante? Prestava suporte em geral. Como por exemplo, suporte para funcionários, suporte nos computadores, suporte nos sistemas. Fiquei por um período de 7 meses.
-- Fui voluntariado do programa de prestação voluntária de serviços administrativos. O que eu fazia de interessente? Prestava atendimentos ao público pelo Call Center do 190 da Polícia militar e corpo de Bombeiros 193. Fiquei por um período de 2 anos.
 
-**<h2> Linguagens e ferramentas:</h2>**
+**<h2> Linguagens:</h2>**
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+**<h2>Frameworks:</h2>**
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="60" src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg'></code>
+
+**<h2>Banco de dados:</h2>**
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+
+**<h2>Outros:</h2>**    
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 <h2>Minhas estatísticas</h2>
 <p align="center" >
