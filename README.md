@@ -30,24 +30,30 @@
 
 <br />
 
+**<h2> Informações públicas </h2>**
+
 Acesse meu [portfólio](https://enderson-portfolio.vercel.app/)!
 
 Sou um apaixonado por códigos, inovações tecnológicas e muito café.
 
-Formado em Análise e Desenvolvimento de Sistemas, sou focado em desenvolvimento Frontend, com experiência em:
+Formado em Análise e Desenvolvimento de Sistemas, sou focado em desenvolvimento Frontend, com experiência em: React, Next, NodeJs
+JavaScript, TypeScript, MySQL, HTML, CSS, Git, GitHub, Blockchain.
 
-Frameworks: React, Next, NodeJs
-Linguagens: JavaScript, TypeScript
-Banco de dados: MySQL
-Outros: HTML, CSS, Git, GitHub, Blockchain.
 
 Estou sempre empenhado e buscando novos conhecimentos e evolução constante ;)
 
-<img align= "right" alt="GIF" src="https://media1.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47asen0tpup1ivtvw7cr415qgufh1269blh2poud6t&rid=giphy.gif&ct=g" width="500" height="680" />
+**<h2> Informações detalhadas </h2>**
+
+* **Nome**: Enderson Frazão
+* **Idade**: 24
+* **Moro em**: Porto Velho - RO, Brasil
+* **Universidade**: Insituto Federal de Rondônia
+
+<img align= "right" alt="GIF" src="https://media1.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47asen0tpup1ivtvw7cr415qgufh1269blh2poud6t&rid=giphy.gif&ct=g" width="510" height="610" />
  
 **<h2> Como me encontrar </h2>** 
 - 💼 Você é recrutador? Estou disponível no <a href="mailto:enderson.frazao7@gmail.com?subject=Oiii%20again" target="blank">
-   <img align="center" alt="endersonf" height="25" width="25" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
+   <img align="center" alt="endersonf" height="20" width="20" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
   </a>
 
 **<h2> Minhas experiências </h2>**
