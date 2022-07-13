@@ -22,7 +22,7 @@
  </p>
  
  <div align="center">
-<h3> 💻 Frontend Developer | React | Next | TypeScript | JavaScript | 🛸 Brazil </h3>
+<h3> 💻 Frontend Developer | ReactJS | NextJS | TypeScript | JavaScript | 🛸 Brazil </h3>
 </div>
  <h5 align="center">
    <i>✞ Just making my castle with small pebbles</i>
@@ -36,18 +36,19 @@ Acesse meu [portfólio](https://enderson-portfolio.vercel.app/)!
 
 Sou um apaixonado por códigos, inovações tecnológicas e muito café.
 
-Formado em Análise e Desenvolvimento de Sistemas, sou focado em desenvolvimento Frontend, com experiência em: React, Next, NodeJs
-JavaScript, TypeScript, MySQL, HTML, CSS, Git, GitHub, Blockchain.
+Formado em Análise e Desenvolvimento de Sistemas, sou focado em desenvolvimento Frontend, com experiência em: ReactJS, NextJS, NodeJS,
+JavaScript, TypeScript, MySQL, HTML, CSS, Git, GitHub e Blockchain.
 
 
 Estou sempre empenhado e buscando novos conhecimentos e evolução constante ;)
 
 **<h2> Informações detalhadas </h2>**
 
-* **Nome**: Enderson Frazão
+* **Nome**: Enderson Frazão Barreto
 * **Idade**: 24
 * **Moro em**: Porto Velho - RO, Brasil
 * **Universidade**: Insituto Federal de Rondônia
+* **Graduação**: Análise e Desenvolvimento de Sistemas
 
 <img align= "right" alt="GIF" src="https://media1.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47asen0tpup1ivtvw7cr415qgufh1269blh2poud6t&rid=giphy.gif&ct=g" width="510" height="610" />
  
