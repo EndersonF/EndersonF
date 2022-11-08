@@ -1,22 +1,22 @@
 ![](https://komarev.com/ghpvc/?username=EndersonF&style=flat-plastic&color=blueviolet)
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/EndersonF">Enderson</a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=CC11FFF6&center=true&width=435&lines=Hi+there%2C+I'm+Enderson;Front-end+Developer;Systems+Analyst;Always+learning+things" alt="Typing SVG" /></a>
 </div>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="blank">
+<a href="https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
    </a>
-<a href="https://twitter.com/enderson_frazao"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" target="blank">
+<a href="https://twitter.com/enderson_frazao"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" target="_blank">
    </a>
-<a href="https://www.twitch.tv/enderfpss"><img height="30" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" target="blank">
+<a href="https://www.twitch.tv/enderfpss"><img height="30" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" target="_blank">
    </a>
-<a href="https://steamcommunity.com/id/endersonfrazao"><img height="30" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" target="blank">
+<a href="https://steamcommunity.com/id/endersonfrazao"><img height="30" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" target="_blank">
    </a>
-<a href="https://discord.gg/nHGW5g3q"><img alt="Discord" title="Discord" height="30" width="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" target="blank">
+<a href="https://discord.gg/nHGW5g3q"><img alt="Discord" title="Discord" height="30" width="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" target="_blank">
       </a>
-<a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp"><img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" target="blank">
+<a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp"><img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" target="_blank">
    </a>
-<a href="https://api.whatsapp.com/send?phone=5569992201666" alt="WhatsApp-EndersonF" target="blank">
+<a href="https://api.whatsapp.com/send?phone=5569992201666" alt="WhatsApp-EndersonF" target="_blank">
       <img height="30" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
    </a>
  </p>
