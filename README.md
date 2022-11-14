@@ -28,6 +28,11 @@
    <i>✞ Just making my castle with small pebbles</i>
   </h5>
 
+
+### Ouvindo Spotify 🎧
+[![Spotify](https://spotify-github-profile-expbyf2yy-endersonf.vercel.app/api/spotify?background_color=bb77eeborder_color=ffffff)](https://open.spotify.com/user/Enderson)
+
+
 <br />
 
 **<h2> Informações públicas </h2>**
@@ -75,6 +80,7 @@ que eram passados como desafios.
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="60" src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg'></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 **<h2>Banco de dados:</h2>**
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
