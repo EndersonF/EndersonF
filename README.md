@@ -29,10 +29,6 @@
   </h5>
 
 
-### Ouvindo Spotify 🎧
-[![Spotify](https://spotify-github-profile-expbyf2yy-endersonf.vercel.app/api/spotify?background_color=bb77eeborder_color=ffffff)](https://open.spotify.com/user/Enderson)
-
-
 <br />
 
 **<h2> Informações públicas </h2>**
