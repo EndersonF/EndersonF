@@ -27,6 +27,13 @@
  <h5 align="center">
    <i>✞ Just making my castle with small pebbles</i>
   </h5>
+  
+  
+  ### Ouvindo Spotify 🎧
+  
+  [![Spotify](https://novatorem-kqp663vma-endersonf.vercel.app/api/spotify)](https://open.spotify.com/user/Enderson)
+  
+  
 
 
 <br />
