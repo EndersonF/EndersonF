@@ -4,25 +4,26 @@
 </div>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
+<a href="https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/"><img height="30" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
    </a>
-<a href="https://twitter.com/enderson_frazao"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" target="_blank">
+<a href="https://twitter.com/enderson_frazao"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" title="Twitter" alt="Twitter" target="_blank">
    </a>
-<a href="https://www.twitch.tv/enderfpss"><img height="30" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" target="_blank">
+<a href="https://www.youtube.com/channel/UCW8eeyFBvVALq-s1Xnuy1KQ"><img height="30" src="https://img.icons8.com/doodle/512/youtube-play--v2.png" title="Youtube" alt="Youtube" target="_blank">
+<a href="https://www.twitch.tv/enderfpss"><img height="30" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" title="Twitch" alt="Twitch" target="_blank">
    </a>
-<a href="https://steamcommunity.com/id/endersonfrazao"><img height="30" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" target="_blank">
+<a href="https://steamcommunity.com/id/endersonfrazao"><img height="30" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" title="Steam" alt="Steam" target="_blank">
    </a>
-<a href="https://discord.gg/nHGW5g3q"><img alt="Discord" title="Discord" height="30" width="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" target="_blank">
+<a href="https://discord.gg/nHGW5g3q"><img alt="Discord" title="Discord" height="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" target="_blank">
       </a>
-<a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp"><img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" target="_blank">
+<a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp"><img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" title="Spotify" target="_blank">
    </a>
-<a href="https://api.whatsapp.com/send?phone=5569992201666" alt="WhatsApp-EndersonF" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=5569992201666" alt="WhatsApp-EndersonF" title="WhatsApp" target="_blank">
       <img height="30" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
    </a>
  </p>
  
  <div align="center">
-<h3> 💻 Frontend Developer | ReactJS | NextJS | TypeScript | JavaScript | 🛸 Brazil </h3>
+<h3> 💻 Desenvolvedor Front-end | ReactJS | NextJS | TypeScript | JavaScript | 🛸 Brasil </h3>
 </div>
  <h5 align="center">
    <i>✞ Just making my castle with small pebbles</i>
@@ -56,7 +57,7 @@ Estou sempre empenhado e buscando novos conhecimentos e evolução constante ;)
  
 **<h2> Como me encontrar </h2>** 
 - 💼 Você é recrutador? Estou disponível no <a href="mailto:enderson.frazao7@gmail.com?subject=Oiii%20again" target="blank">
-   <img align="center" alt="endersonf" height="20" width="20" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
+   <img align="center" alt="endersonf" height="30" width="30" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
   </a>
 
 **<h2> Minhas experiências </h2>**
@@ -89,7 +90,7 @@ que eram passados como desafios.
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-<h2>Minhas estatísticas</h2>
+**<h2>Minhas estatísticas</h2>**
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=EndersonF&&show_icons=true&theme=radical" alt="EndersonF"/>
