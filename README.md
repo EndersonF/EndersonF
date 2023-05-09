@@ -23,7 +23,7 @@
  </p>
  
  <div align="center">
-<h3> 💻 Desenvolvedor Front-end | ReactJS | NextJS | TypeScript | JavaScript | 🛸 Brasil </h3>
+<h3> 💻 Desenvolvedor Front-end | JavaScript | ReactJS | TypeScript | NextJS </h3>
 </div>
  <h5 align="center">
    <i>✞ Just making my castle with small pebbles</i>
@@ -39,16 +39,14 @@ Acesse meu [portfólio](https://enderson-portfolio.vercel.app/)!
 
 Sou um apaixonado por códigos, inovações tecnológicas e muito café.
 
-Formado em Análise e Desenvolvimento de Sistemas, sou focado em desenvolvimento Frontend, com experiência em: ReactJS, NextJS, NodeJS,
-JavaScript, TypeScript, MySQL, HTML, CSS, Git, GitHub e Blockchain.
+Formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Rondônia, sou focado em desenvolvimento front-end e motivado pela possibilidade que a tecnologia oferece de transformar a vida das pessoas.
 
-
-Estou sempre empenhado e buscando novos conhecimentos e evolução constante ;)
+Estou sempre empenhado em buscar novos conhecimentos e evoluir constantemente. ;)
 
 **<h2> Informações detalhadas </h2>**
 
 * **Nome**: Enderson Frazão Barreto
-* **Idade**: 24
+* **Idade**: 25
 * **Moro em**: Porto Velho - RO, Brasil
 * **Universidade**: Insituto Federal de Rondônia
 * **Graduação**: Análise e Desenvolvimento de Sistemas
@@ -86,9 +84,10 @@ que eram passados como desafios.
 
 **<h2>Outros:</h2>**    
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 **<h2>Minhas estatísticas</h2>**
 <p align="center" >
@@ -99,4 +98,4 @@ que eram passados como desafios.
 
 ![snake gif](https://github.com/EndersonF/EndersonF/blob/output/github-contribution-grid-snake.svg)
 
-⭐️ From [@Enderson Frazão](https://github.com/EndersonF)
+⭐️ Made by [@Enderson Frazão](https://github.com/EndersonF)
