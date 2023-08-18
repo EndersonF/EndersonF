@@ -1,101 +1,102 @@
-![](https://komarev.com/ghpvc/?username=EndersonF&style=flat-plastic&color=blueviolet)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=CC11FFF6&center=true&width=435&lines=Hi+there%2C+I'm+Enderson;Front-end+Developer;Systems+Analyst;Always+learning+things" alt="Typing SVG" /></a>
-</div>
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/"><img height="30" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
-   </a>
-<a href="https://twitter.com/enderson_frazao"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" title="Twitter" alt="Twitter" target="_blank">
-   </a>
-<a href="https://www.youtube.com/channel/UCW8eeyFBvVALq-s1Xnuy1KQ"><img height="30" src="https://img.icons8.com/doodle/512/youtube-play--v2.png" title="Youtube" alt="Youtube" target="_blank">
-<a href="https://www.twitch.tv/enderfpss"><img height="30" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" title="Twitch" alt="Twitch" target="_blank">
-   </a>
-<a href="https://steamcommunity.com/id/endersonfrazao"><img height="30" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" title="Steam" alt="Steam" target="_blank">
-   </a>
-<a href="https://discord.gg/nHGW5g3q"><img alt="Discord" title="Discord" height="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" target="_blank">
-      </a>
-<a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp"><img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" title="Spotify" target="_blank">
-   </a>
-<a href="https://api.whatsapp.com/send?phone=5569992201666" alt="WhatsApp-EndersonF" title="WhatsApp" target="_blank">
-      <img height="30" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
-   </a>
- </p>
- 
- <div align="center">
-<h3> 💻 Desenvolvedor Front-end | JavaScript | ReactJS | TypeScript | NextJS </h3>
-</div>
- <h5 align="center">
-   <i>✞ Just making my castle with small pebbles</i>
-  </h5>
-  
-
-
-<br />
-
-**<h2> Informações públicas </h2>**
-
-Acesse meu [portfólio](https://enderson-portfolio.vercel.app/)!
-
-Sou um apaixonado por códigos, inovações tecnológicas e muito café.
-
-Formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Rondônia, sou focado em desenvolvimento front-end e motivado pela possibilidade que a tecnologia oferece de transformar a vida das pessoas.
-
-Estou sempre empenhado em buscar novos conhecimentos e evoluir constantemente. ;)
-
-**<h2> Informações detalhadas </h2>**
-
-* **Nome**: Enderson Frazão Barreto
-* **Idade**: 25
-* **Moro em**: Porto Velho - RO, Brasil
-* **Universidade**: Insituto Federal de Rondônia
-* **Graduação**: Análise e Desenvolvimento de Sistemas
-
-<img align= "right" alt="GIF" src="https://media1.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47asen0tpup1ivtvw7cr415qgufh1269blh2poud6t&rid=giphy.gif&ct=g" width="510" height="610" />
- 
-**<h2> Como me encontrar </h2>** 
-- 💼 Você é recrutador? Estou disponível no <a href="mailto:enderson.frazao7@gmail.com?subject=Oiii%20again" target="blank">
-   <img align="center" alt="endersonf" height="30" width="30" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=CC11FFF6&center=true&width=435&lines=Hi+there%2C+I'm+Enderson%3BFront-end+Developer%3BSystems+Analyst%3BAlways+learning+things" alt="Typing SVG" />
   </a>
+</div>
 
-**<h2> Minhas experiências </h2>**
-- Trabalhei com desenvolvimento Blockchain, onde eu repassava aos superiores o andamentos da atividades, quais eram meus planos para
-as atividades e se houve alguma problema e logo alinhava as atividades com as equipes. Durante o estágio foi utilizado as metodologias
-ágeis Scrum e Kanban. Estudei pela plataforma Alura para desenvolver as atividades que eram passadas. No decorrer do estágio trabalhei
-com algumas linguagens de programação e algumas ferramentas, como por exemplo: JavaScript, NodeJS, Blockchain, SQL e NoSQL. Essas
-ferramentas foram usadas para o desenvolvimento de APIs na Blockchain e também foi utilizado Git/Github para o versionamento dos projetos
-que eram passados como desafios.
-- Fui estagiário no hospital Unimed Porto Velho, Rondônia, Brasil. O que eu fazia de interessante? Prestava suporte em geral. Como por exemplo, suporte para funcionários, suporte nos computadores, suporte nos sistemas. Fiquei por um período de 7 meses.
-
-**<h2> Linguagens:</h2>**
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-**<h2>Frameworks:</h2>**
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="60" src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg'></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-**<h2>Banco de dados:</h2>**
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
-
-**<h2>Outros:</h2>**    
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-
-**<h2>Minhas estatísticas</h2>**
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=EndersonF&&show_icons=true&theme=radical" alt="EndersonF"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/">
+    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" title="LinkedIn" target="_blank">
+  </a>
+  <a href="https://twitter.com/enderson_frazao">
+    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" alt="Twitter" title="Twitter" target="_blank">
+  </a>
+  <a href="https://www.youtube.com/channel/UCW8eeyFBvVALq-s1Xnuy1KQ">
+    <img height="30" src="https://img.icons8.com/doodle/512/youtube-play--v2.png" alt="Youtube" title="Youtube" target="_blank">
+  </a>
+  <a href="https://www.twitch.tv/enderfpss">
+    <img height="30" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="Twitch" title="Twitch" target="_blank">
+  </a>
+  <a href="https://steamcommunity.com/id/endersonfrazao">
+    <img height="30" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="Steam" title="Steam" target="_blank">
+  </a>
+  <a href="https://discord.gg/nHGW5g3q">
+    <img height="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" title="Discord" target="_blank">
+  </a>
+  <a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp">
+    <img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Spotify" title="Spotify" target="_blank">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5569992201666" alt="WhatsApp-EndersonF" title="WhatsApp" target="_blank">
+    <img height="30" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
   </a>
 </p>
 
-![snake gif](https://github.com/EndersonF/EndersonF/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h3>Front-end Developer | JavaScript | TypeScript | ReactJS | Blockchain | Solidity</h3>
+</div>
 
-⭐️ Made by [@Enderson Frazão](https://github.com/EndersonF)
+<h5 align="center">
+  <i>✞ Just making my castle with small pebbles ✞</i>
+</h5>
+
+## About me
+
+I'm passionate about code, technological innovation, and lots of coffee.
+
+I hold a degree in Systems Analysis and Development from the Federal Institute of Rondonia. My main area of interest lies in front-end development. I'm genuinely enthusiastic about the ways technology can positively impact people's lives and remain driven by this possibility.
+
+I'm always committed to seeking out new knowledge and constantly evolving.
+
+## Detailed information
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
+
+- **Name**: Enderson Frazão
+- **Age**: 25
+- **Living in**: Porto Velho - RO, Brazil
+- **University**: Federal Institute of Rondonia
+- **Graduation**: Analysis and Systems Development
+- **Stack**: JavaScript - ReactJS - TypeScript
+- **Studying**: Blockchain - Smart Contracts - Solidity - UI/UX Design - English
+- **Settings Laptop**: Acer Nitro 5 AN515-52-5771
+
+## How to find me
+
+- Are you a recruiter? I'm available at ➞
+  <a href="mailto:enderson.frazao7@gmail.com?subject=Oiii%20again" target="blank">
+    <img align="center" alt="gmail" title="Gmail" height="20" width="20" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
+  </a>
+
+## Languages
+
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"></code>
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+
+## Frameworks
+
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
+
+## Databases
+
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+
+## Others
+
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"></code>
+<code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
+
+## My statistics
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=EndersonF&&show_icons=true&theme=radical" alt="EndersonF"/>
+  </a>
+</p>
