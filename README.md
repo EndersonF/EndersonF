@@ -32,7 +32,7 @@
 </p>
 
 <div align="center">
-  <h3>Front-end Developer | JavaScript | TypeScript | ReactJS | Blockchain | Solidity</h3>
+  <h3>Developer | Qlik Sense | Oracle Apex | PL/SQL | JavaScript | Low Code</h3>
 </div>
 
 <h5 align="center">
@@ -56,14 +56,14 @@ I'm always committed to seeking out new knowledge and constantly evolving.
 - **University**: Federal Institute of Rondonia
 - **Graduation**: Analysis and Systems Development
 - **Stack**: JavaScript - ReactJS - TypeScript
-- **Studying**: Blockchain - Smart Contracts - Solidity - UI/UX Design - English
+- **Studying**: PL/SQL - Qlik Sense - Business Intelligence - UI/UX Design - English
 - **Settings Laptop**: Acer Nitro 5 AN515-52-5771
 
 ## How to find me
 
 - Are you a recruiter? I'm available at ➞
   <a href="mailto:enderson.frazao7@gmail.com?subject=Oiii%20again" target="blank">
-    <img align="center" alt="gmail" title="Gmail" height="20" width="20" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
+    <img align="center" alt="Gmail" title="Gmail" height="20" width="20" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
   </a>
 
 ## Languages
