@@ -21,7 +21,7 @@
     <img height="30" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="Steam" title="Steam" target="_blank">
   </a>
   <a href="https://discord.gg/nHGW5g3q">
-    <img height="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" title="Discord" target="_blank">
+    <img height="30" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" title="Discord" target="_blank">
   </a>
   <a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp">
     <img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Spotify" title="Spotify" target="_blank">
